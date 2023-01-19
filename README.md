@@ -6,7 +6,7 @@
 </p>
 
 <h2 align="center">Descrição do Projeto 🧾</h2>
-<p align="center">Contador de horas simples utilizando Javascript, HTML e CSS;<br> Feito a partir de um exercício proposto </p>
+<p align="center">Contador de horas simples utilizando Javascript, HTML e CSS;<br> Feito a partir de um exercício proposto. </p>
 
 <h2 align="center">Linguagens Utilizadas 💻</h2>
 <p align="center">
