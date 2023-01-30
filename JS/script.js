@@ -8,7 +8,7 @@ function carregar()
     
     if (hora >= 5 && hora < 12) //BOM DIA
     {
-        img.src = 'sol.png'
+        img.src = 'manha.png'
         document.body.style.background = 'rgb(15, 132, 241)'
     } 
     else if (hora >=12 && hora < 18) //BOA TARDE
